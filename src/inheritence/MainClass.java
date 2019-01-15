@@ -40,3 +40,4 @@ public class MainClass {
 
 
 //private는 활용 불가
+//주석이 제대로 적용됫는지 커밋을 해 보자
